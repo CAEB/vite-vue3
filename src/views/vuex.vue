@@ -2,7 +2,7 @@
   <div class="test-container page-container">
     <div class="page-title">Unit Test Page</div>
     <p>count is: {{ count }}</p>
-    <button @click="increment">increment</button>
+    <button @click="increment">increment test</button>
   </div>
 </template>
 

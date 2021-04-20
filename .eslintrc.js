@@ -12,7 +12,7 @@ module.exports = {
   },
   plugins: ['vue', '@typescript-eslint'],
   rules: {
-    'import/extensions': ['off', 'never'],
-    'import/no-unresolved': ['off', 'never']
+    'import/extensions': 'off',
+    'import/no-unresolved': 'off'
   }
 }
